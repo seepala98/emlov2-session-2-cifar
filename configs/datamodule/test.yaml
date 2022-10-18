@@ -1,0 +1,5 @@
+_target_: src.test_class.test_func
+_partial_: true
+a: "This is test for value of a"
+b: "This is test for value of b"
+c : 123
